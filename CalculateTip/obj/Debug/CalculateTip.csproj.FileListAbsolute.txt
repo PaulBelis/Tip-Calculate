@@ -1,0 +1,8 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CalculateTip\CalculateTip\bin\Debug\CalculateTip.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CalculateTip\CalculateTip\bin\Debug\CalculateTip.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CalculateTip\CalculateTip\bin\Debug\CalculateTip.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CalculateTip\CalculateTip\obj\Debug\CalculateTip.Tips.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CalculateTip\CalculateTip\obj\Debug\CalculateTip.Properties.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CalculateTip\CalculateTip\obj\Debug\CalculateTip.csproj.GenerateResource.Cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CalculateTip\CalculateTip\obj\Debug\CalculateTip.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CalculateTip\CalculateTip\obj\Debug\CalculateTip.pdb
